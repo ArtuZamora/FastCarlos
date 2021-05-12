@@ -1,0 +1,119 @@
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.PizzaMenu.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadPizza.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\bin\Debug\AltoControls.dll
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\bin\Debug\AltoControls.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\AltoControls.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadPizza.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.PizzaMenu.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\AltoControls.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\AltoControls.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 2\Proyecto_Catedra_Fase_02_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb
+C:\UDB\2021\ciclo 1\Programación con Estructura de Datos\Teoria\Proyecto\Fase 3\v2\Restaurante PED\Proyecto\obj\Debug\Proyecto.Forms.TipoPago.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.CantidadProducto.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.MenuPrincipal.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.Ordenes.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.ProductMenu.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.Forms.TipoPago.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\r2zam\OneDrive - Universidad Don Bosco\UDB 2021 C1\PED - Programación Con Estructura de Datos\Catedra\Fase 3\Proyecto_Catedra_Fase_03_PED_G01T\Restaurante PED\Proyecto\obj\Debug\Proyecto.pdb

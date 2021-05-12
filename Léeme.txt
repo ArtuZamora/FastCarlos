@@ -1,0 +1,4 @@
+Para el correcto funcionamiento a la hora de crear la base de datos en SQL Server,
+se DEBEN importar los archivos .mdf y .ldf que están contenidos en el archivo comprimido DB.rar, 
+ya que el script SQL contiene la inserción de las imagenes,
+vía selector de archivos de una computadora en específico, por tanto no funcionarían esas inserciones.
